@@ -28,7 +28,7 @@ int main()
 
     // Using \t (tab space)
     cout << "\n\nName:\tDewang";
-    cout << "\nBranch:\tEngineering";
+    cout << "\nBranch:\tComputer Science and Engineering";
 
     // Using \a (alarm sound - may or may not beep depending on system)
     cout << "\n\aThis line triggers an alert sound (if supported).";
