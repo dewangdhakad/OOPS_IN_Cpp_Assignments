@@ -76,8 +76,7 @@ IDE: (VS Code / IntelliJ / CodeBlocks / etc.)
 
 Clone the repository:
 
-git clone https://github.com/your-username/repository-name.git
-
+git clone https://github.com/dewangdhakad/OOPS_IN_Cpp_Assignments.git
 
 Open the project in your IDE
 
